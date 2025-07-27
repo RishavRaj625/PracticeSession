@@ -1,3 +1,3 @@
 # PracticeSession
 
-Practice for incoming exam
+Preparation for incoming exam & company interview
